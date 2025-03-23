@@ -21,14 +21,14 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
   ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy&logoColor=white)
   ![Alembic](https://img.shields.io/badge/-Alembic-333333?style=flat&logo=alembic&logoColor=white)
   ![pydantic](https://img.shields.io/badge/-pydantic-333333?style=flat&logo=pydantic&logoColor=white)
-  ![Flake8](https://img.shields.io/badge/-Flake8-333333?style=flat&logo=flake8&logoColor=white)
-  ![isort](https://img.shields.io/badge/-isort-333333?style=flat&logo=isort&logoColor=white)
-  ![Black](https://img.shields.io/badge/-Black-333333?style=flat&logo=black&logoColor=white)
-  ![mypy](https://img.shields.io/badge/-mypy-333333?style=flat&logo=mypy&logoColor=white)
-  ![ruff](https://img.shields.io/badge/-ruff-333333?style=flat&logo=ruff&logoColor=white)
-  ![pipenv](https://img.shields.io/badge/-pipenv-333333?style=flat&logo=pipenv&logoColor=white)
-  ![poetry](https://img.shields.io/badge/-poetry-333333?style=flat&logo=poetry&logoColor=white)
   ![uv](https://img.shields.io/badge/-uv-333333?style=flat&logo=uv&logoColor=white)
+  ![ruff](https://img.shields.io/badge/-ruff-333333?style=flat&logo=ruff&logoColor=white)
+  ![poetry](https://img.shields.io/badge/-poetry-333333?style=flat&logo=poetry&logoColor=white)
+  ![pipenv](https://img.shields.io/badge/-pipenv-333333?style=flat&logo=python&logoColor=white)
+  ![Flake8](https://img.shields.io/badge/-Flake8-333333?style=flat&logo=python&logoColor=white)
+  ![isort](https://img.shields.io/badge/-isort-333333?style=flat&logo=python&logoColor=white)
+  ![Black](https://img.shields.io/badge/-Black-333333?style=flat&logo=python&logoColor=white)
+  ![mypy](https://img.shields.io/badge/-mypy-333333?style=flat&logo=python&logoColor=white)
 
 #### Infrastructure and Databases
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -78,8 +78,8 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
   ![DRY](https://img.shields.io/badge/-DRY-333333?style=flat&logo=python)
   ![KISS](https://img.shields.io/badge/-KISS-333333?style=flat&logo=python)
   ![DI](https://img.shields.io/badge/-DI-333333?style=flat&logo=python)
-  ![Data Structures](https://img.shields.io/badge/-Data_Structures-333333?style=flat&logo=ds)
-  ![Algorithms](https://img.shields.io/badge/-Algorithms-333333?style=flat&logo=algorithms)
+  ![Data Structures](https://img.shields.io/badge/-Data_Structures-333333?style=flat&logo=python)
+  ![Algorithms](https://img.shields.io/badge/-Algorithms-333333?style=flat&logo=python)
 
 ### :fire: My Stats :
 
