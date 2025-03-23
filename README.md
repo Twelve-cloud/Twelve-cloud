@@ -72,17 +72,17 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
   ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-333333?style=flat&logo=azure-devops)
 
 #### Other
-  ![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=solid)
-  ![OOP](https://img.shields.io/badge/-OOP-333333?style=flat&logo=python)
-  ![YAGNI](https://img.shields.io/badge/-YAGNI-333333?style=flat&logo=python)
-  ![DRY](https://img.shields.io/badge/-DRY-333333?style=flat&logo=python)
-  ![KISS](https://img.shields.io/badge/-KISS-333333?style=flat&logo=python)
-  ![DI](https://img.shields.io/badge/-DI-333333?style=flat&logo=python)
-  ![Data Structures](https://img.shields.io/badge/-Data_Structures-333333?style=flat&logo=python)
-  ![Algorithms](https://img.shields.io/badge/-Algorithms-333333?style=flat&logo=python)
+  ![OOP](https://img.shields.io/badge/-OOP-333333?style=flat&logo=oop&logoColor=white)
+  ![YAGNI](https://img.shields.io/badge/-YAGNI-333333?style=flat&logo=yagni&logoColor=white)
+  ![DRY](https://img.shields.io/badge/-DRY-333333?style=flat&logo=dry&logoColor=white)
+  ![KISS](https://img.shields.io/badge/-KISS-333333?style=flat&logo=kiss&logoColor=white)
+  ![DI](https://img.shields.io/badge/-DI-333333?style=flat&logo=di&logoColor=white)
+  ![Data Structures](https://img.shields.io/badge/-Data_Structures-333333?style=flat&logo=ds&logoColor=white)
+  ![Algorithms](https://img.shields.io/badge/-Algorithms-333333?style=flat&logo=algorithms&logoColor=white)
 
 ### :fire: My Stats :
 
+#### GitHub Overview
 <div align="center">
   <a href="https://github.com/Twelve-cloud">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Twelve-cloud&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -90,14 +90,19 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
   </a>
 </div>
 
+#### Profile Details
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark)
 
+#### Most Used Languages in Commits
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark)
 
+#### Repositories by Language
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark)
 
+#### Profile Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark)
 
+#### Productive Time (Last 24 Hours)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark)
 
 ### 📊 Activity Graph
