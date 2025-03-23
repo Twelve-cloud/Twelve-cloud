@@ -71,17 +71,14 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 
 #### Other
-  ![OOP](https://img.shields.io/badge/-OOP-333333?style=flat&logo=oop)
   ![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=solid)
-  ![YAGNI](https://img.shields.io/badge/-YAGNI-333333?style=flat&logo=yagni)
-  ![DRY](https://img.shields.io/badge/-DRY-333333?style=flat&logo=dry)
-  ![KISS](https://img.shields.io/badge/-KISS-333333?style=flat&logo=kiss)
-  ![DI](https://img.shields.io/badge/-DI-333333?style=flat&logo=di)
+  ![OOP](https://img.shields.io/badge/-OOP-333333?style=flat&logo=python)
+  ![YAGNI](https://img.shields.io/badge/-YAGNI-333333?style=flat&logo=python)
+  ![DRY](https://img.shields.io/badge/-DRY-333333?style=flat&logo=python)
+  ![KISS](https://img.shields.io/badge/-KISS-333333?style=flat&logo=python)
+  ![DI](https://img.shields.io/badge/-DI-333333?style=flat&logo=python)
   ![Data Structures](https://img.shields.io/badge/-Data_Structures-333333?style=flat&logo=ds)
   ![Algorithms](https://img.shields.io/badge/-Algorithms-333333?style=flat&logo=algorithms)
-  ![Computer Networks](https://img.shields.io/badge/-Computer_Networks-333333?style=flat&logo=network)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
 ### :fire: My Stats :
 
@@ -91,6 +88,20 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twelve-cloud&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark)
 
 ### 📊 Activity Graph
 [![Twelve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twelve-cloud&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
