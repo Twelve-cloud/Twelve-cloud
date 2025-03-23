@@ -31,6 +31,9 @@ Python Developer. Passionate about building scalable backend systems. </br>
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat&logo=argo)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
   ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
   ![HAProxy](https://img.shields.io/badge/-HAProxy-333333?style=flat&logo=haproxy)
@@ -43,6 +46,7 @@ Python Developer. Passionate about building scalable backend systems. </br>
 #### Monitoring
   ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
   ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+  ![Alertmanager](https://img.shields.io/badge/-Alertmanager-333333?style=flat&logo=prometheus)
   ![Loki](https://img.shields.io/badge/-Loki-333333?style=flat&logo=grafana)
   ![Promtail](https://img.shields.io/badge/-Promtail-333333?style=flat&logo=grafana)
 
@@ -55,6 +59,19 @@ Python Developer. Passionate about building scalable backend systems. </br>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+
+#### Other
+  ![OOP](https://img.shields.io/badge/-OOP-333333?style=flat&logo=oop)
+  ![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=solid)
+  ![YAGNI](https://img.shields.io/badge/-YAGNI-333333?style=flat&logo=yagni)
+  ![DRY](https://img.shields.io/badge/-DRY-333333?style=flat&logo=dry)
+  ![KISS](https://img.shields.io/badge/-KISS-333333?style=flat&logo=kiss)
+  ![DI](https://img.shields.io/badge/-DI-333333?style=flat&logo=di)
+  ![Data Structures](https://img.shields.io/badge/-Data_Structures-333333?style=flat&logo=ds)
+  ![Algorithms](https://img.shields.io/badge/-Algorithms-333333?style=flat&logo=algorithms)
+  ![Computer Networks](https://img.shields.io/badge/-Computer_Networks-333333?style=flat&logo=network)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
 ### :fire: My Stats :
 
@@ -69,4 +86,12 @@ Python Developer. Passionate about building scalable backend systems. </br>
 [![Twelve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twelve-cloud&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Twelve-cloud&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Twelve-cloud&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/twelvecloud)
+- [Email](mailto:kana.suzucki@gmail.com)
+
+---
