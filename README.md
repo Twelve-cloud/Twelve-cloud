@@ -20,7 +20,7 @@ Python Developer. Passionate about building scalable backend systems. </br>
 
 #### Infrastructure and Databases
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
@@ -41,6 +41,18 @@ Python Developer. Passionate about building scalable backend systems. </br>
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
+### :fire: My Stats :
+
+<div align="center">
+  <a href="https://github.com/Twelve-cloud">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Twelve-cloud&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twelve-cloud&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Twelve-cloud&theme=dark&background=000000" alt="GitHub Streak" />
+</div>
 
 ### 📊 Activity Graph
 [![Twelve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twelve-cloud&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -53,3 +65,5 @@ Python Developer. Passionate about building scalable backend systems. </br>
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/twelvecloud)
 - [Email](mailto:kana.suzucki@gmail.com)
+
+---
