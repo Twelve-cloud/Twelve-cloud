@@ -40,3 +40,16 @@ Python Developer. Passionate about building scalable backend systems. </br>
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+
+### 📊 Activity Graph
+[![Twelve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twelve-cloud&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Twelve-cloud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/twelvecloud)
+- [Email](mailto:kana.suzucki@gmail.com)
