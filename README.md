@@ -91,21 +91,30 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
 </div>
 
 #### GitHub Stats in Grid Layout
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1 1 45%;">
+<div align="center" style="display: flex; flex-direction: column; gap: 10px;">
+  <!-- Первая строка: одна карточка -->
+  <div style="flex: 1; width: 100%;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark" alt="Profile Details"/>
   </div>
-  <div style="flex: 1 1 45%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark" alt="Most Used Languages in Commits"/>
+
+  <!-- Вторая строка: две карточки -->
+  <div style="display: flex; gap: 10px;">
+    <div style="flex: 1;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark" alt="Most Used Languages in Commits"/>
+    </div>
+    <div style="flex: 1;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark" alt="Repositories by Language"/>
+    </div>
   </div>
-  <div style="flex: 1 1 45%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark" alt="Repositories by Language"/>
-  </div>
-  <div style="flex: 1 1 45%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark" alt="Profile Stats"/>
-  </div>
-  <div style="flex: 1 1 45%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark" alt="Productive Time (Last 24 Hours)"/>
+
+  <!-- Третья строка: две карточки -->
+  <div style="display: flex; gap: 10px;">
+    <div style="flex: 1;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark" alt="Profile Stats"/>
+    </div>
+    <div style="flex: 1;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark" alt="Productive Time (Last 24 Hours)"/>
+    </div>
   </div>
 </div>
 
