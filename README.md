@@ -59,11 +59,3 @@ Python Developer. Passionate about building scalable backend systems. </br>
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Twelve-cloud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/twelvecloud)
-- [Email](mailto:kana.suzucki@gmail.com)
-
----
