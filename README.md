@@ -94,14 +94,14 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
 <div align="center">
 
 <!-- Первая строка: одна карточка -->
-<table>
+<table style="border: 1px solid;">
   <tr>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark" alt="Profile Details"/>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark" alt="Profile Details"/></td>
   </tr>
 </table>
 
 <!-- Вторая строка: две карточки -->
-<table>
+<table style="border: 1px solid;">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark" alt="Most Used Languages in Commits"/></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark" alt="Repositories by Language"/></td>
@@ -109,7 +109,7 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
 </table>
 
 <!-- Третья строка: две карточки -->
-<table>
+<table style="border: 1px solid;">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark" alt="Profile Stats"/></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark" alt="Productive Time (Last 24 Hours)"/></td>
