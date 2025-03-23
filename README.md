@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About me
 
-Python Developer. Passionate about building scalable backend systems. </br>
+Backend Developer with a passion for crafting robust, scalable, and efficient systems. I specialize in Python development and have a strong foundation in software design principles, DevOps practices, and modern development tools. Always eager to learn and apply new technologies to solve real-world problems. Let's build something amazing together! 🚀
 
 ### 🛠 Tech Stack
 
@@ -19,7 +19,16 @@ Python Developer. Passionate about building scalable backend systems. </br>
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=white)
   ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery&logoColor=white)
   ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy&logoColor=white)
+  ![Alembic](https://img.shields.io/badge/-Alembic-333333?style=flat&logo=alembic&logoColor=white)
   ![pydantic](https://img.shields.io/badge/-pydantic-333333?style=flat&logo=pydantic&logoColor=white)
+  ![Flake8](https://img.shields.io/badge/-Flake8-333333?style=flat&logo=flake8&logoColor=white)
+  ![isort](https://img.shields.io/badge/-isort-333333?style=flat&logo=isort&logoColor=white)
+  ![Black](https://img.shields.io/badge/-Black-333333?style=flat&logo=black&logoColor=white)
+  ![mypy](https://img.shields.io/badge/-mypy-333333?style=flat&logo=mypy&logoColor=white)
+  ![ruff](https://img.shields.io/badge/-ruff-333333?style=flat&logo=ruff&logoColor=white)
+  ![pipenv](https://img.shields.io/badge/-pipenv-333333?style=flat&logo=pipenv&logoColor=white)
+  ![poetry](https://img.shields.io/badge/-poetry-333333?style=flat&logo=poetry&logoColor=white)
+  ![uv](https://img.shields.io/badge/-uv-333333?style=flat&logo=uv&logoColor=white)
 
 #### Infrastructure and Databases
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -32,12 +41,13 @@ Python Developer. Passionate about building scalable backend systems. </br>
   ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
   ![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat&logo=argo)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
   ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
   ![HAProxy](https://img.shields.io/badge/-HAProxy-333333?style=flat&logo=haproxy)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+  ![OpenSSL](https://img.shields.io/badge/-OpenSSL-333333?style=flat&logo=openssl)
 
 #### Brokers
   ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
@@ -45,10 +55,10 @@ Python Developer. Passionate about building scalable backend systems. </br>
 
 #### Monitoring
   ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
-  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
-  ![Alertmanager](https://img.shields.io/badge/-Alertmanager-333333?style=flat&logo=prometheus)
   ![Loki](https://img.shields.io/badge/-Loki-333333?style=flat&logo=grafana)
   ![Promtail](https://img.shields.io/badge/-Promtail-333333?style=flat&logo=grafana)
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+  ![Alertmanager](https://img.shields.io/badge/-Alertmanager-333333?style=flat&logo=prometheus)
 
 #### Testing
   ![pytest](https://img.shields.io/badge/-pytest-333333?style=flat&logo=pytest&logoColor=white)
@@ -87,11 +97,3 @@ Python Developer. Passionate about building scalable backend systems. </br>
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Twelve-cloud&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/twelvecloud)
-- [Email](mailto:kana.suzucki@gmail.com)
-
----
