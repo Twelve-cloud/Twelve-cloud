@@ -91,31 +91,27 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
 </div>
 
 #### GitHub Stats in Grid Layout
-<div align="center" style="display: flex; flex-direction: column; gap: 10px;">
-  <!-- Первая строка: одна карточка -->
-  <div style="flex: 1; width: 100%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark" alt="Profile Details"/>
-  </div>
-  
-  <!-- Вторая строка: две карточки -->
-  <div style="display: flex; gap: 10px;">
-    <div style="flex: 1;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark" alt="Most Used Languages in Commits"/>
-    </div>
-    <div style="flex: 1;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark" alt="Repositories by Language"/>
-    </div>
-  </div>
+<div align="center">
 
-  <!-- Третья строка: две карточки -->
-  <div style="display: flex; gap: 10px;">
-    <div style="flex: 1;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark" alt="Profile Stats"/>
-    </div>
-    <div style="flex: 1;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark" alt="Productive Time (Last 24 Hours)"/>
-    </div>
-  </div>
+<!-- Первая строка: одна карточка -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark" alt="Profile Details"/>
+
+<!-- Вторая строка: две карточки -->
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark" alt="Most Used Languages in Commits"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark" alt="Repositories by Language"/></td>
+  </tr>
+</table>
+
+<!-- Третья строка: две карточки -->
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark" alt="Profile Stats"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark" alt="Productive Time (Last 24 Hours)"/></td>
+  </tr>
+</table>
+
 </div>
 
 ### 📊 Activity Graph
