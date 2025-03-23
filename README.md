@@ -98,21 +98,21 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
   </div>
   
   <!-- Вторая строка: две карточки -->
-  <div class="card-container">
-    <div>
+  <div style="display: flex; gap: 10px;">
+    <div style="flex: 1;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark" alt="Most Used Languages in Commits"/>
     </div>
-    <div>
+    <div style="flex: 1;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark" alt="Repositories by Language"/>
     </div>
   </div>
 
   <!-- Третья строка: две карточки -->
-  <div class="card-container">
-    <div>
+  <div style="display: flex; gap: 10px;">
+    <div style="flex: 1;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark" alt="Profile Stats"/>
     </div>
-    <div>
+    <div style="flex: 1;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark" alt="Productive Time (Last 24 Hours)"/>
     </div>
   </div>
