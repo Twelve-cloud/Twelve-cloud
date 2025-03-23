@@ -94,7 +94,11 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
 <div align="center">
 
 <!-- Первая строка: одна карточка -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark" alt="Profile Details"/>
+<table>
+  <tr>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark" alt="Profile Details"/>
+  </tr>
+</table>
 
 <!-- Вторая строка: две карточки -->
 <table>
@@ -119,11 +123,3 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Twelve-cloud&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/twelvecloud)
-- [Email](mailto:kana.suzucki@gmail.com)
-
----
