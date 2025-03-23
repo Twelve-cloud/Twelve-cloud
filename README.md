@@ -69,6 +69,7 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-333333?style=flat&logo=azure-devops)
 
 #### Other
   ![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=solid)
@@ -91,16 +92,12 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark)
 
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark)
 
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark)
 
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark)
 
-Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark)
 
 ### 📊 Activity Graph
@@ -108,3 +105,11 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Twelve-cloud&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/twelvecloud)
+- [Email](mailto:kana.suzucki@gmail.com)
+
+---
