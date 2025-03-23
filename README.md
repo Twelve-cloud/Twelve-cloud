@@ -90,20 +90,24 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
   </a>
 </div>
 
-#### Profile Details
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark)
-
-#### Most Used Languages in Commits
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark)
-
-#### Repositories by Language
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark)
-
-#### Profile Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark)
-
-#### Productive Time (Last 24 Hours)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark)
+#### GitHub Stats in Grid Layout
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="flex: 1 1 45%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark" alt="Profile Details"/>
+  </div>
+  <div style="flex: 1 1 45%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark" alt="Most Used Languages in Commits"/>
+  </div>
+  <div style="flex: 1 1 45%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark" alt="Repositories by Language"/>
+  </div>
+  <div style="flex: 1 1 45%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark" alt="Profile Stats"/>
+  </div>
+  <div style="flex: 1 1 45%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark" alt="Productive Time (Last 24 Hours)"/>
+  </div>
+</div>
 
 ### 📊 Activity Graph
 [![Twelve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Twelve-cloud&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
