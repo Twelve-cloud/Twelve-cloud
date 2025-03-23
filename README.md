@@ -96,23 +96,23 @@ Backend Developer with a passion for crafting robust, scalable, and efficient sy
   <div style="flex: 1; width: 100%;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Twelve-cloud&theme=solarized_dark" alt="Profile Details"/>
   </div>
-
+  
   <!-- Вторая строка: две карточки -->
-  <div style="display: flex; gap: 10px;">
-    <div style="flex: 1;">
+  <div class="card-container">
+    <div>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Twelve-cloud&theme=solarized_dark" alt="Most Used Languages in Commits"/>
     </div>
-    <div style="flex: 1;">
+    <div>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Twelve-cloud&theme=solarized_dark" alt="Repositories by Language"/>
     </div>
   </div>
 
   <!-- Третья строка: две карточки -->
-  <div style="display: flex; gap: 10px;">
-    <div style="flex: 1;">
+  <div class="card-container">
+    <div>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Twelve-cloud&theme=solarized_dark" alt="Profile Stats"/>
     </div>
-    <div style="flex: 1;">
+    <div>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Twelve-cloud&theme=solarized_dark" alt="Productive Time (Last 24 Hours)"/>
     </div>
   </div>
